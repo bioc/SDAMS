@@ -26,7 +26,7 @@ should be addressed}\\[1em]
 \small{$^{1}$Department of Statistics , University of Kentucky,Lexington, KY;}\\
 \small{$^{2}$Markey Cancer Center, University of Kentucky, Lexington, KY;}\\
 \small{$^{3}$Division of Cancer Biostatistics, Department of Internal Medicine;}\\
-\small{\texttt{yuntong.li@uky.edu}}\\
+\small{\texttt{liyuntong0704@gmail.com}}\\
 \small{\texttt{chi.wang@uky.edu}}\\
 \small{\texttt{lichenuky@uky.edu}}}
 

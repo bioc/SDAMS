@@ -17,7 +17,7 @@
 }
 
 \author{
-  Yuntong Li <yuntong.li@uky.edu>,
+  Yuntong Li <liyuntong0704@gmail.com>,
   Chi Wang <chi.wang@uky.edu>,
   Li Chen <lichenuky@uky.edu>
 }
